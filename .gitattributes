@@ -1,4 +1,0 @@
-# Treat the entire export folder as binary/generated so GitHub ignores it
-*.js linguist-vendored
-*.wasm linguist-vendored
-*.html linguist-vendored
