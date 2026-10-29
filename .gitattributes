@@ -1,0 +1,2 @@
+# Treat the entire export folder as binary/generated so GitHub ignores it
+GameExport/* linguist-vendored
